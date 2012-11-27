@@ -1,5 +1,5 @@
 # Toca Rouge
-**Torstraße 195
+**Torstraße 195  
 10115 Berlin**
 
-"Ein asiatisches Restaurant mit Gerichten, dass ein Gaumenfeuerwerk ausloest."
+"Ein asiatisches Restaurant mit Gerichten, die ein Gaumenfeuerwerk ausloest."
