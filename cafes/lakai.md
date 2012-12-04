@@ -4,7 +4,7 @@ Emser Straße 131
 
 **opening hours:**
 
-**Mon - Thu** from 7pm & **Fri - Sun** from 3pm
+*Mon - Thu* from 7pm & *Fri - Sun* from 3pm
 
 
 
