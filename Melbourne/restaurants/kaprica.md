@@ -1,10 +1,12 @@
 # Kaprica
 
 ### Location
+- - -
 
 19 Lincoln Square, Carlton
 
-### Recommendation
+### Blurb
+- - -
 
 Awesome pizza and wine, just a little way aways from Lygon St. 
 Cash only, but if you want to get away from the 'tourestiness' 
