@@ -10,4 +10,5 @@ Brunswick East
 ### Blurb
 - - -
 
-These guys roast beans in the back and make a great coffee in the front. Your choice of sparkling or still water with your coffee.
+These guys roast beans in the back and make a great coffee in the front. 
+You also get a choice of sparkling or still water with your coffee.
