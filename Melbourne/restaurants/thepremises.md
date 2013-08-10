@@ -5,4 +5,4 @@ Kensington, VIC
 3031
 
 #### Menu ####
-* The Premises Egg
+* The Premises Egg  $17
