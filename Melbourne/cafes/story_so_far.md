@@ -1,6 +1,6 @@
 # Story So Far
 ![Front of the shop](http://s3-media4.ak.yelpcdn.com/bphoto/Tm7qi6q9K0X2q-LrXl_m9g/l.jpg)
-![map](http://maps.google.com/maps/api/staticmap?center=-37.829655,144.966301&zoom=15&markers=-37.829994,144.970142&size=640x400&sensor=true)
+![map](http://maps.google.com/maps/api/staticmap?center=-37.829655,144.966301&zoom=15&markers=-37.829994,144.970142&size=558x400&sensor=true)
 
 *8B Dorcas St, Southbank Victoria 3006*
 
