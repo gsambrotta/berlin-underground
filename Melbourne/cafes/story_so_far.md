@@ -4,9 +4,6 @@
 
 *8B Dorcas St, Southbank Victoria 3006*
 
-Awesome little place that is a does coffee, cronuts (seriously, [Google that shit](http://lmgtfy.com/?q=cronut)) and other delicious diabetes inducing substances throughout the day. By night they also have a great selection of wines and craft beer, either to enjoy there or take away. Free wine tastings on Friday afternoon's too.
+Awesome little place that is a does coffee, cronuts (seriously, [Google that shit](http://lmgtfy.com/?q=cronut)) and other delicious diabetes inducing substances. By night (or morning, if that's your preference) they also have a great selection of wines and craft beer to enjoy there or take away. Free wine tastings on Friday afternoon's too.
 
 Hands down the best coffee in that area. Great atmosphere and consistently incredible coffee.
-
-
-
