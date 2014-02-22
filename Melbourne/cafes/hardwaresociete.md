@@ -1,6 +1,6 @@
 #Hardware Societe
 
-Colourful saucers, knitted teapot covers and wooden tables – you can’t help but fall in love with Hardware Societe. The milk is divine (that is, if you go for a latte or its siblings) and the food is wonderful. I still believe they have the best baked eggs in all of Melbourne.
+Colourful saucers, knitted teapot covers and wooden tables – you can’t help but fall in love with Hardware Societe. The milk is divine (that is, if you go for a latte or its siblings) and the food is wonderful.
 
 
 ##Venue
