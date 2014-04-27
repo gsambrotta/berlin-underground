@@ -1,6 +1,6 @@
 #Dönermann am Alex (U-Bahnhof)
 
-![](../../images/address.png) Address
+![](../../Images/address.png) Address
 -------------------------------------
 
 U-Bahnhof  Alexanderplatz  

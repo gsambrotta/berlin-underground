@@ -1,6 +1,6 @@
 #betahaus
 
-![](../../images/address.png) Address
+![](../../Images/address.png) Address
 -------------------------------------
 
 Prinzessinnenstraße 19-20  
