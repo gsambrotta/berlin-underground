@@ -8,3 +8,6 @@ Gärtnerstraße 4
 Description
 -----------
 Nice Cafe / bar to meet nice people and play table games.
+
+People met there:  
+- HerrHerrmann
