@@ -1,7 +1,7 @@
 # Lavanderia
 Adress
-    Lenbachstraﬂe 1
-    10245 Berlin
+     Lenbachstra√üe 1
+     10245 Berlin
 Description
 
 Great Cafe with nice food and drinks.
