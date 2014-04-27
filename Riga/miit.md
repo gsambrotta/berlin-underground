@@ -1,6 +1,6 @@
 # MIIT
 
-Cafe, bar, club, fixie-fix.
+Cafe, bar, club, fixie-fix.  
 A proper place for a decent underground hipster type.
 
 Variable 	| Value		
