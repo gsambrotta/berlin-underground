@@ -1,6 +1,6 @@
 #Namu
 
-great Korean Restaurant
+Great Korean Restaurant
 
 Restaurant Namu
 Olpe 14
