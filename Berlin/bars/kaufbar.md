@@ -1,5 +1,15 @@
-#kaufbar
-Gärtnerstraße 4
-10245 Berlin
+# kaufbar
 
+![](../../Images/address.png) Address
+-------------------------------------
+
+    GÃ¤rtnerstraÃŸe 4
+    10245 Berlin
+
+Description
+-----------
 Nice Cafe / bar to meet nice people and play table games.
+
+People met there:
+
+  - HerrHerrmann
