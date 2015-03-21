@@ -1,0 +1,1 @@
+Die Köpi (auch Køpi) ist ein 1990 besetztes und 1991 legalisiertes Haus in der Köpenicker Straße 137 im Berliner Ortsteil Mitte, das heute als autonomes Wohnprojekt und Kulturzentrum genutzt wird. Der Garten wird als Wagenplatz verwendet.  
